@@ -1,0 +1,35 @@
+Algoritmo CalculoPromedioAlumno
+    // Declaración de variables
+    Definir nombre Como Cadena
+    Definir edad Como Entero
+    Definir examen, tareas, trabajos, promedioFinal Como Real
+    Definir aprobado Como Logico
+	
+    // Entrada de datos
+    Escribir "Ingrese el nombre del alumno: "
+    Leer nombre
+    Escribir "Ingrese la edad del alumno: "
+    Leer edad
+    Escribir "Ingrese la calificación del examen (30%): "
+    Leer examen
+    Escribir "Ingrese la calificación de las tareas (20%): "
+    Leer tareas
+    Escribir "Ingrese la calificación de los trabajos en clase (50%): "
+    Leer trabajos
+	
+    // Cálculo del promedio
+    promedioFinal <- (examen * 0.30) + (tareas * 0.20) + (trabajos * 0.50)
+	
+    // Validar si aprobó
+    aprobado <- promedioFinal >= 6
+	
+    // Salida de datos
+    Escribir "Nombre del alumno: ", nombre
+    Escribir "Edad: ", edad
+    Escribir "Calificación del examen: ", examen
+    Escribir "Calificación de las tareas: ", tareas
+    Escribir "Calificación de los trabajos en clase: ", trabajos
+    Escribir "Promedio final: ", promedioFinal
+    Escribir "¿Aprobó? ", aprobado
+	
+FinAlgoritmo
