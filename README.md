@@ -38,7 +38,13 @@ Descripción breve de la materia: Esta basada en desarrollar soluciones algorít
 
 
 Unidad 1
+
+
+
 Descripción breve de la unidad: En esta unidad se aprendieron conceptos como Metodología para la resolución de problemas. Conceptos básicos de algoritmos. Notación para la representación de algoritmos. Tipos de datos básicos Variables y constantes Operadores y expresiones Estructura básica de un algoritmo secuencial.
+
+
+
 [Ir a unidad 1](https://github.com/Adriana1605/UPEN-CODIGOS/tree/main/U1)
 
 
