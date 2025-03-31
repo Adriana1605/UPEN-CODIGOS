@@ -47,11 +47,19 @@ Descripción breve de la unidad: En esta unidad se aprendieron conceptos como Me
 
 [Ir a unidad 1](https://github.com/Adriana1605/UPEN-CODIGOS/tree/main/U1)
 
+
+
 Unidad 2
 
 
 Descripción breve de la unidad: Decisiones compuestas, anidadas y múltiples, Representación de algoritmos con estructuras de control selectivas, Conceptos básicos de contador, acumulador y bandera Estructura Mientras - FinMientras
+
+
 Estructura Haga - MientrasQue
+
+
 Estructura Para - FinPara
-Representación de algoritmos con
-estructuras de control repetitivas
+
+
+Representación de algoritmos con estructuras de control repetitivas
+[Ir a unidad 2]()
