@@ -62,4 +62,22 @@ Estructura Para - FinPara
 
 
 Representación de algoritmos con estructuras de control repetitivas
-[Ir a unidad 2]()
+
+
+
+[Ir a unidad 2](https://github.com/Adriana1605/UPEN-CODIGOS/tree/main/U2)
+
+
+Unidad 3
+
+
+Descripción breve de la unidad: En esta unidad se aprendieron conceptos como Sub-algoritmos Proceso de desarrollo de programas
+estructurados Principios básicos de diseño funcional Técnicas de recolección de requerimientos. Técnicas de prueba y depuración.
+
+
+
+
+[Ir a Unidad 3]()
+
+
+
